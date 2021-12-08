@@ -9,7 +9,7 @@
 ###### What I Use
 
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Intel](https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel-Core_i7-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ####
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
